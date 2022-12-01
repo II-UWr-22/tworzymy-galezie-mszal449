@@ -1,1 +1,52 @@
 Linux main-MS-7B86 5.15.0-53-generic #59-Ubuntu SMP Mon Oct 17 18:53:30 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:       16329668 kB
+MemFree:        13162188 kB
+MemAvailable:   14551012 kB
+Buffers:           80448 kB
+Cached:          1585364 kB
+SwapCached:            0 kB
+Active:           566184 kB
+Inactive:        2131232 kB
+Active(anon):       4172 kB
+Inactive(anon):  1108744 kB
+Active(file):     562012 kB
+Inactive(file):  1022488 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:               136 kB
+Writeback:             0 kB
+AnonPages:       1031768 kB
+Mapped:           519564 kB
+Shmem:             86836 kB
+KReclaimable:     110848 kB
+Slab:             232180 kB
+SReclaimable:     110848 kB
+SUnreclaim:       121332 kB
+KernelStack:       15376 kB
+PageTables:        23696 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     8164832 kB
+Committed_AS:    5769440 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       41560 kB
+VmallocChunk:          0 kB
+Percpu:            33920 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      293364 kB
+DirectMap2M:     5949440 kB
+DirectMap1G:    11534336 kB
